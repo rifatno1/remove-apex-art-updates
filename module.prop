@@ -1,0 +1,6 @@
+id=remove-apex-art-updates
+name=Remove apex art module updates
+version=v1
+versionCode=1
+author=Rifat Mahmud
+description=Removes apex art module updates by renaming the files with .bak extension.
